@@ -86,18 +86,15 @@ Thanks to the Java community and [Oracle Docs](https://docs.oracle.com/javase/8/
 
 ## 📸 Screenshots
 
-<img src="https://user-images.githubusercontent.com/your-username/screenshot1.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/your-username/screenshot2.png" width="400"/>
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/a347595a-d937-4f3d-9cd5-74e7b9ce7fd1" />
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/33ac14e0-10b5-4b9e-947f-c35adcee7c9e" />
+
 
 > Add screenshots or replace with an actual GIF/demo if available.
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 💬 Feedback
 
