@@ -103,5 +103,5 @@ Have suggestions or want to contribute? Feel free to [open an issue](https://git
 ---
 
 ⭐ **Star this repo** if you found it useful!  
-💻 Made with 💙 by [YourName](https://github.com/your-username)
+💻 Made with 💙 by [HARI KRISHNA](https://github.com/your-username)
 
