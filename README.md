@@ -23,7 +23,8 @@ A simple and interactive **Currency Converter** built using Java Swing. This GUI
 
 > Here's how the application looks in action:
 
-![Currency Converter Java GUI](https://user-images.githubusercontent.com/your-username/your-gif-id.gif)
+
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/5b6cc961-3c4c-4f17-be93-cb4d962ea896" />
 
 <sub>_(Replace with your actual demo GIF if available)_</sub>
 
